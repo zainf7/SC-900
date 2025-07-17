@@ -13,10 +13,11 @@ I created this repo to document my learning, reinforce my understanding of Micro
 **SC-900** is a fundamentals-level certification focused on Microsoft’s cloud-based security, compliance, and identity solutions.
 
 **Skills measured:**
-- Describe security, compliance, and identity concepts
-- Describe capabilities of Microsoft Entra (Azure AD)
-- Describe Microsoft security solutions (Defender, Sentinel, etc.)
-- Describe Microsoft compliance solutions (Purview, Priva, etc.)
+-	Describe the concepts of security, compliance, and identity (10–15%)
+-	Describe the capabilities of Microsoft Entra (25–30%)
+-	Describe the capabilities of Microsoft security solutions (35–40%)
+-	Describe the capabilities of Microsoft compliance solutions (20–25%)
+
 
 [Official Exam Page](https://learn.microsoft.com/en-us/certifications/exams/sc-900/)
 
