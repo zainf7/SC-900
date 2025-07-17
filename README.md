@@ -34,4 +34,4 @@ I created this repo to document my learning, reinforce my understanding of Micro
 I'm currently building hands-on Azure skills, studying for certifications, and looking to transition into a cloud security-focused role.
 
 🔗 [LinkedIn](www.linkedin.com/in/zain-farooq-416727193)  
-🔗 [GitHub]((https://github.com/zainf7))
+🔗 [GitHub](https://github.com/zainf7)
