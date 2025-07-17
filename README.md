@@ -1,5 +1,5 @@
 # SC-900
-My study notes and exam prep for the Microsoft SC-900 certification
+My study notes and exam prep for the Microsoft SC-900 certification - Passed Feb 2025
 # SC-900: Microsoft Security, Compliance, and Identity Fundamentals
 
 This repository contains my personal study notes and prep material for the **Microsoft SC-900** certification exam.
